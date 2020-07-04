@@ -1,6 +1,6 @@
 package Allocaur;
 import java.util.Scanner;
-// TO ALL WHO SEE THIS, READ LINE 26!!
+// TO ALL WHO SEE THIS, READ LINE 26 (W.I.P.)
 public class Allocaur {
     public static void main(String[] args) {
         String name;
