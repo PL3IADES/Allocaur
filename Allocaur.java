@@ -22,7 +22,6 @@ public class Allocaur {
         System.out.println("along with the game instructions, if a line contains, it is game relations and your own thoughts.");
         System.out.println("anyway, along with the game.");
         
-        System.out.println("this is new...");
         
     }
 }
